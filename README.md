@@ -1,2 +1,3 @@
 # Customizable-Multiplication-Alerts
 This JavaScript code defines two variables, 'a' and 'b', with values 3 and 2 respectively. It also contains a function called 'multiple' that takes an optional parameter 'x' with a default value of 8, and returns the result of multiplying 'x' by 3...
+Another function named 'affichage' is defined, which triggers alerts displaying the result of calling 'multiple' with 'a', 'b', and without any argument, demonstrating the versatility of the 'multiple' function.
